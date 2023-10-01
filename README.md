@@ -1,2 +1,4 @@
 # scrapme
-scrapme - skinport scrapper
+scrapme - skinport scrapper 
+
+!! NOT MARKET DATA SCRAPPER OR BUY BOT !!
